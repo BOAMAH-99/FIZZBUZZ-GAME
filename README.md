@@ -1,3 +1,5 @@
+#FIZZBUZZ GAME
+
 # Instructions  
 Write a program that prints the first 1000 numbers of FizzBuzz. Output should look like this:
 
@@ -14,6 +16,6 @@ Fizz
 ```
 
 **However, it should continue on up to 1000.**
+**Remember: case matters!** 
 
-
-**Remember: case matters!** This project will be automatically graded, and computers are very literal!
+# A game that replaces numbers divisible by 3 with Fizz, numbers divisble by 5 with Buzz and a number divisible by 3 and 5 by Fizzbuzz
